@@ -14,3 +14,6 @@ Intended for drone mounting and aerial scans. An ongoing project.
 | BMI088 IMU (Shuttle Board) | I²C bus 1 | `0x18` accel, `0x68` gyro | **3.3 V** |
 | MG90S pan servo | Hardware PWM ch. 0 | GPIO12 (pin 32) | External 5 V |
 | MG90S tilt servo | Hardware PWM ch. 1 | GPIO13 (pin 33) | External 5 V |
+
+## Output
+![Indoor scan from photoberry](Example.png)
